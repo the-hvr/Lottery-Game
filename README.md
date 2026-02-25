@@ -1,16 +1,69 @@
-# React + Vite
+# 🎰 Lottery Game (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Lottery Game built using React to practice core concepts like components, state, props, component decomposition, and lifting state up (state design pattern).
 
-Currently, two official plugins are available:
+This project helped me understand how to structure a React app, manage shared state, and pass data between components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎲 Random lottery number generation  
+- 🧩 Component-based UI  
+- 🔁 State management using React state  
+- 🔼 Lifting state up to share data between components  
+- 📦 Clean component decomposition  
+- ⚡ Interactive UI  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+
+---
+
+## 📚 Concepts Practiced
+
+- ✅ Components  
+- ✅ Props  
+- ✅ State  
+- ✅ Component Decomposition  
+- ✅ Lifting State Up (State Design Pattern)  
+- ✅ Event Handling  
+
+---
+
+## 🎯 Learning Outcome
+
+Through this project, I learned:
+
+How to break UI into reusable components
+
+How to pass data using props
+
+How to manage state effectively
+
+How to lift state up for shared logic
+
+How React re-renders based on state changes
+
+---
+
+## 📸 Screenshots (Optional)
+
+![alt text](image.png)
+
+![alt text]({95C8D8A8-C513-47B3-8D98-D516FE4EF083}.png)
+
+---
+
+
+## 🧑‍💻 Author
+
+Harshvardhan Raj
+Web Developer
+
