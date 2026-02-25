@@ -1,0 +1,21 @@
+form select, button{
+    height: 50px;
+    font-size: 18px;
+    margin: 25px 10px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+    background-color: blue;
+    transition: all 0.3s ease;
+}
+
+form button:active {
+    transform: scale(0.9);
+}
+
+form select:hover{
+    transform: scale(0.9);
+}
+
+
+

@@ -1,0 +1,8 @@
+.ticketBox {
+    padding:20px 100px; 
+    margin : 15px;
+    border-radius: 30px;
+    display: inline-block;
+    box-shadow: 0 0 5px 5px rgba(128, 128, 128, 0.511);
+    background: linear-gradient(rgba(0, 247, 255, 0.671), rgba(0, 0, 255, 0.735));
+}
